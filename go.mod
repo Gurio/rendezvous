@@ -1,3 +1,3 @@
-module github.com/tysonmote/rendezvous
+module github.com/gurio/rendezvous
 
 go 1.18
